@@ -12,8 +12,8 @@ Visualizing the diffusion and generation process
 
 🧪 Tech Stack
 
-Python
-PyTorch
-NumPy
-Matplotlib
-Google Colab
+-Python
+-PyTorch
+-NumPy
+-Matplotlib
+-Google Colab
